@@ -12,3 +12,7 @@ This repo contains various tools I've been using to improve productivity with AI
 
 * [Antrophic Frontend Design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
 * [mattpocock grill-me](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me)
+
+## Prompts
+
+Collections of prompts that I've been reusing.
