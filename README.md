@@ -16,3 +16,6 @@ This repo contains various tools I've been using to improve productivity with AI
 ## Prompts
 
 Collections of prompts that I've been reusing.
+
+> [!NOTE]
+> Good Resource to Read about prompting: <https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices>
